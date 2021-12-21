@@ -1,2 +1,2 @@
-# gi_test
+# git_test
 test폴더입니다.
